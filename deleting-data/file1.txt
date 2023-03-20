@@ -1,3 +1,5 @@
 ide beírunk valami kis kamu szöveget.
 
 ide még írom szöveget.
+
+változtatást hozzáírok a staged 333!
